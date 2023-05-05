@@ -56,12 +56,12 @@ body {
 .color4{
   background-image: url("./image/11.jpg");
   background-repeat : no-repeat;
-  background-size : cover;
+  background-size : contain;
 }
 .color5{
   background-image: url("./image/5.jpg");
   background-repeat : no-repeat;
-  background-size : cover;
+  background-size : contain;
 }
 .color6{
   background-image: url("./image/6.jpg");
